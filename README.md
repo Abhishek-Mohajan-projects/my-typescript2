@@ -1,3 +1,3 @@
-# my-typescript2
+# typescript2
 
 ## narrowing, generics, class implements in typescript
